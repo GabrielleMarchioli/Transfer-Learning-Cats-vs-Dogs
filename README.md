@@ -11,8 +11,7 @@ O projeto consiste na aplicação do método Transfer Learning a uma rede Deep L
 
 Como exemplo, usaremos o seguinte projeto que realiza Transfer Learning com o [MNIST Dataset]: https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning .ipynb
 
-O conjunto de dados usado contém duas classes: gatos e cachorros. Uma descrição do banco de dados pode ser vista neste link. O conjunto de dados para download pode ser acessado através deste outro link
-
+O conjunto de dados usado contém duas classes: gatos e cachorros. Uma descrição do banco de dados pode ser vista neste link.
     
 ### Developed solutions:
 
